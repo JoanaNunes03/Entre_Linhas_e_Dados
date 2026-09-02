@@ -27,9 +27,9 @@ Os dados fornecidos pelo utilizador são processados através de regras computac
 
 O sistema gera instruções de tecelagem que são posteriormente interpretadas e executadas no tear, mantendo a tecedeira como parte fundamental do processo de materialização.
 
-## Autora
+## Autores
 
-**Joana Nunes**
+**Joana Nunes, Tiago Martins e Sérgio Rebelo**
 
 Mestrado em Design e Multimédia  
 Universidade de Coimbra
