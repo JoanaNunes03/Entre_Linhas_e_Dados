@@ -1,0 +1,56 @@
+Exemplo 2
+
+Cor do tafetá: verde.
+Zonas de puxadinhos: 2.
+Zonas de tafetá: 4.
+Ordem das zonas: T P T T P T
+
+Passo 1- Tecer 3,0cm de bainha;
+Passo 2- Tecer 1,7cm de tecido base (verde);
+Passo 3- Zona de tafetá: Tecer 1,0cm de tafetá (verde);
+Passo 4- Tecer 1,2cm de tecido base (branco);
+Passo 5- Tecer 0,3cm de tafetá (verde);
+Passo 6- Tecer 1,7cm de tecido base (verde);
+Passo 7- Zona de puxadinhos: Carreira 1 de 5;
+Passo 8- 19 puxadinhos;
+Passo 9- Trancar 2 vezes;
+Passo 10- Carreira 2 de 5;
+Passo 11- 38 puxadinhos;
+Passo 12- Trancar 2 vezes;
+Passo 13- Carreira 3 de 5;
+Passo 14- 38 puxadinhos;
+Passo 15- Trancar 2 vezes;
+Passo 16- Carreira 4 de 5;
+Passo 17- 38 puxadinhos;
+Passo 18- Trancar 2 vezes;
+Passo 19- Carreira 5 de 5;
+Passo 20- 19 puxadinhos;
+Passo 21- Tecer 1,7cm de tecido base (verde);
+Passo 22- Zona de tafetá: Tecer 1,0cm de tafetá (verde);
+Passo 23- Tecer 1,2cm de tecido base (branco);
+Passo 24- Tecer 0,3cm de tafetá (verde);
+Passo 25- Tecer 1,7cm de tecido base (verde);
+Passo 26- Zona de tafetá: Tecer 1,0cm de tafetá (verde);
+Passo 27- Tecer 1,2cm de tecido base (branco);
+Passo 28- Tecer 0,3cm de tafetá (verde);
+Passo 29- Tecer 1,7cm de tecido base (verde);
+Passo 30- Zona de puxadinhos: Carreira 1 de 5;
+Passo 31- 19 puxadinhos;
+Passo 32- Trancar 2 vezes;
+Passo 33- Carreira 2 de 5;
+Passo 34- 38 puxadinhos;
+Passo 35- Trancar 2 vezes;
+Passo 36- Carreira 3 de 5;
+Passo 37- 38 puxadinhos;
+Passo 38- Trancar 2 vezes;
+Passo 39- Carreira 4 de 5;
+Passo 40- 38 puxadinhos;
+Passo 41- Trancar 2 vezes;
+Passo 42- Carreira 5 de 5;
+Passo 43- 19 puxadinhos;
+Passo 44- Tecer 1,7cm de tecido base (verde);
+Passo 45- Zona de tafetá: Tecer 1,0cm de tafetá (verde);
+Passo 46- Tecer 1,2cm de tecido base (branco);
+Passo 47- Tecer 0,3cm de tafetá (verde);
+Passo 48- Tecer 1,7cm de tecido base (verde);
+Passo 49- Tecer 3,0cm de bainha.

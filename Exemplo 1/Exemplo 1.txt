@@ -1,0 +1,37 @@
+exemplo 1
+
+Cor do tafetá: amarelo.
+Zonas de puxadinhos: 2.
+Zonas de tafetá: 2.
+Ordem das zonas: T P T P
+
+Passo 1- Tecer 3,0cm de bainha;
+Passo 2- Tecer 1,0cm de tecido base (amarelo);
+Passo 3- Tecer 3,0cm de tecido base (branco);
+Passo 4- Zona de tafetá: Tecer 2,5cm de tafetá (amarelo);
+Passo 5- Tecer 1,0cm de tecido base (amarelo);
+Passo 6- Tecer 3,0cm de tecido base (branco);
+Passo 7- Zona de puxadinhos: Carreira 1 de 3;
+Passo 8- 19 puxadinhos;
+Passo 9- Trancar 2 vezes;
+Passo 10- Carreira 2 de 3;
+Passo 11- 38 puxadinhos;
+Passo 12- Trancar 2 vezes;
+Passo 13- Carreira 3 de 3;
+Passo 14- 19 puxadinhos;
+Passo 15- Tecer 1,0cm de tecido base (amarelo);
+Passo 16- Tecer 3,0cm de tecido base (branco);
+Passo 17- Zona de tafetá: Tecer 2,5cm de tafetá (amarelo);
+Passo 18- Tecer 1,0cm de tecido base (amarelo);
+Passo 19- Tecer 3,0cm de tecido base (branco);
+Passo 20- Zona de puxadinhos: Carreira 1 de 3;
+Passo 21- 19 puxadinhos;
+Passo 22- Trancar 2 vezes;
+Passo 23- Carreira 2 de 3;
+Passo 24- 38 puxadinhos;
+Passo 25- Trancar 2 vezes;
+Passo 26- Carreira 3 de 3;
+Passo 27- 19 puxadinhos;
+Passo 28- Tecer 1,0cm de tecido base (amarelo);
+Passo 29- Tecer 3,0cm de tecido base (branco);
+Passo 30- Tecer 3,0cm de bainha.
